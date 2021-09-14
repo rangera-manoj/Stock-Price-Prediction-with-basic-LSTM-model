@@ -1,5 +1,5 @@
 # Stock-Price-Prediction-with-basic-LSTM-model
-## Using LSTM model to predict the stock price and checking if it's possible or feasible to do so.
+Using LSTM model to predict the stock price and checking if it's possible or feasible to do so.
 
 ### 1. Google Stock Price prediction on close price.
 ### 2. Return Prediction on Close price.
